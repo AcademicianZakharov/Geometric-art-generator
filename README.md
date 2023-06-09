@@ -1,1 +1,1 @@
-# Geometric-art-generator
+# Geometric-art-generator with Python
